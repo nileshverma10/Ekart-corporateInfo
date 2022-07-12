@@ -1,0 +1,66 @@
+.much{
+    /* border: 2px solid red; */
+    width: 100%;
+    height: 100px;
+}
+
+.tat{
+    margin-left: 130px;
+    height: 80px;
+    padding-top: 12px;
+    background-color: whitesmoke;
+}
+
+.huch{
+    float: right;
+    /* display: inline; */
+    margin-right: 15px;
+    padding-top: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.key{
+    margin-top: 60px;
+    margin-left: 40px;
+    /* border: 2px solid blue; */
+    width: 100%;
+    height: 530px;
+    margin-right: 150px;
+}
+
+.mass{
+
+    color: blue;
+    /* padding-left: 10px; */
+}
+
+.has{
+    font-weight: bold;
+    flex-wrap: wrap;
+}
+
+.him{
+    margin-top: 60px;
+    color: blue;
+}
+
+.she{
+    margin-top: 20px;
+    color: blue;
+}
+
+.boxright{
+    /* border: 2px solid green; */
+    /* margin-top: 60px;  */
+    float: right;
+    width: 650px;
+    height: 530px;
+    /* margin-right: 500px;
+    display: flexbox ; */
+}
+
+.ttt{
+    width:650px ;
+    height: 530px;
+}
